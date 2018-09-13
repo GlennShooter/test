@@ -6,3 +6,4 @@ Created on Thu Sep 13 10:08:57 2018
 """
 
 from setuptools import setup, find_packages
+find_packages('requirements.txt')
